@@ -1,0 +1,13 @@
+numpy
+Pillow
+torch
+torchvision
+
+pytorch-lightning
+numpy
+scikit-learn
+opencv-python-headless
+Pillow
+tqdm
+grad-cam
+streamlit
